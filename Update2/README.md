@@ -1,0 +1,3 @@
+Hoàn thiện các chủ đề thiết kế
+Hoàn thiện các chức năng của app
+Sủa một số lỗi về hình ảnh, size, lỗi code...
